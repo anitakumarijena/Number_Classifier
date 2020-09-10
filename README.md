@@ -1,5 +1,5 @@
 # Number_Classifier
-This model is to identifying the hand written number.
+This model is to identifying the hand written number.By using neural network the image is classified.A model is made  using tensorflow and keras library.
 
 ### Install
 
